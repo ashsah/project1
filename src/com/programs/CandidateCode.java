@@ -9,7 +9,7 @@ import java.io.*;
 import java.util.*;
 public class CandidateCode {
     public static void main(String args[] ) throws Exception {
-    	//SOurabh utkhade adding
+    	//SOurabh utkhade adding more comments
     	//Write code here
         int n;
         Scanner sc = new Scanner(System.in);
