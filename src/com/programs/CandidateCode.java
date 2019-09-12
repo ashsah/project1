@@ -10,7 +10,7 @@ import java.util.*;
 public class CandidateCode {
     public static void main(String args[] ) throws Exception {
 
-    	//SOurabh utkhade adding new comment
+    	//SOurabh utkhade again removing your comments
 
     	//Write code here
         int n;
